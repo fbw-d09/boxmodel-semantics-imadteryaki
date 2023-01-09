@@ -1,0 +1,48 @@
+* {
+  /* border: 2px solid black; */
+  font-family: monospace;
+  
+}
+header{
+    text-align: center;
+}
+#box {
+    display: block;
+}
+
+#musik {
+  width: 45%;
+  float: right;
+  margin-right: 30px;
+  text-align: center;
+  border: 2px solid blue;
+}
+
+#musik h3,
+#causes h3 {
+  text-decoration: underline;
+
+}
+
+#causes {
+  margin-left: 30px;
+  width: 45%;
+  float: left;
+  border: 2px solid green ;
+}
+ 
+#causes section a {
+   text-align: center;
+}
+#history{
+    width: 100vw;
+    border: 2px solid red;
+    margin-top: 260px;
+    padding: 0px;
+   display: block;
+
+}
+#history h3 {
+    text-align: center;
+    text-decoration: underline;
+}
